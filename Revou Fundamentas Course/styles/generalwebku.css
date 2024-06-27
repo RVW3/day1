@@ -1,0 +1,8 @@
+body {
+  font-family: Arial;
+}
+
+.data-konten {
+  display: flex;
+  align-items: center;
+}

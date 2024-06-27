@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>Latihan form</title>
+    </head>
+    <body>
+      <h1>Latihan form</h1>
+      <form action="https://www.youtube.com/" method="post" target="_blank">
+          <label for="name">Nama : </label>
+          <input id="name" type="text" required>
+          <br>
+          <label for="umur">Umur :</label>
+          <input id="umur" type="number" min="1" max="99" required>
+          <p><b>apa warna favorit mu</b></p>
+          <select size="3" multiple>
+            <option>merah</option>
+            <option>kuning</option>
+            <option selected>hijau</option>
+            <optin>kuning</optin>
+            <option>hitam</option>
+            <option>putih</option>
+            <option>biru</option>
+          </select>
+
+          <br>
+          <input type="radio" id="html" name="fav_language" value="HTML" required multiple>
+          <label for="html">HTML</label> 
+          <br>
+          <input type="radio" id="css" name="fav_language" value="CSS" required multiple>
+          <label for="css">CSS</label> 
+          <br>
+          <input type="radio" id="javascript" name="fav_language" value="JavaScript" required multiple>
+          <label for="javascript">JavaScript</label> 
+          <!--Name input nya harus sama kalau mau tombol nya bisa di pilih mau yang mana-->
+          <br>
+          <input type="submit" value="Submit">
+      </form>
+    </body>
+  </html>

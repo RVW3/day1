@@ -1,0 +1,17 @@
+.bottom {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 1px solid black;
+  height: 63px;
+  align-items: center;
+}
+
+.developer {
+  position: fixed;
+  right: 45px;
+  font-size: 11px;
+  color: black;
+}

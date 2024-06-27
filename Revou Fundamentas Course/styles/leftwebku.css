@@ -1,0 +1,96 @@
+.formulir {
+  margin-left: 75px;
+  text-align: left;
+}
+
+.judul-form {
+  margin-bottom: 38px;
+}
+
+h2 {
+  margin-top: 90px;
+  margin-bottom: 0;
+}
+
+h6 {
+  margin-top: 6px;
+}
+
+.data-diri {
+  font-size: 12px;
+}
+
+.titik-satu {
+  margin-left: 40px;
+}
+
+.titik-dua {
+  margin-left: 41px;
+}
+
+.titik-satu,
+.titik {
+  margin-right: 3px;
+}
+
+.radio {
+  margin-right: 0px;
+}
+
+.data-nama {
+  margin-bottom: 6px;
+}
+
+#nama {
+  font-size: 12px;
+  padding-right: 180px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  border-radius: 3px;
+  border: 1px solid gray;
+}
+
+.data-tanggal {
+  margin-bottom: 1px;
+}
+
+#tanggal-lahir {
+  font-size: 12px;
+  width: 328px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 3px;
+  border: 1px solid gray;
+  padding-left: 3px;
+}
+
+.data-gender {
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
+
+.LL,
+.PP {
+  margin-bottom: 0;
+  font-size: 12px;
+}
+
+#pesan {
+  font-size: 12px;
+  border-radius: 3px;
+  border: 1px solid gray;
+  width: 328px;
+  padding-bottom: 80px;
+}
+
+.submit {
+  font-size: 13px;
+  padding: 4px 187px 4px 188px;
+  margin-top: 15px;
+}
+
+#kelamin,
+#kelamin1 {
+  accent-color: black;
+}

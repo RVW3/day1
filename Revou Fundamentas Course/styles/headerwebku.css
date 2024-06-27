@@ -1,0 +1,33 @@
+.header-container {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+}
+
+.revou {
+  width: 45px;
+  border-radius: 100px;
+  margin-left: 30px;
+}
+
+  .kolom,
+  .header-rows,
+  .header-name {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-right: 70px;
+  width: 390px;
+  text-align: center;
+  height: 25px;
+}
+
+.header-rows {
+  font-size: 12px;
+  border-radius: 10px;
+}
